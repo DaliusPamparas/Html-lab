@@ -108,7 +108,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="forklaring.html" />
+    <Content Include="pages\forklaring.html" />
     <Content Include="images\banner.jpg" />
     <Content Include="images\cycling-nature.jpg" />
     <Content Include="index.html" />
@@ -116,9 +116,9 @@
     <Content Include="media\NeonHeart-EndlessGrace.mp3" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
-    <Content Include="sound-in-background.html" />
-    <Content Include="sound.html" />
-    <Content Include="video.html" />
+    <Content Include="pages\sound-in-background.html" />
+    <Content Include="pages\sound.html" />
+    <Content Include="pages\video.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
