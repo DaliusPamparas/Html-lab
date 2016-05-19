@@ -107,6 +107,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images\banner.jpg" />
+    <Content Include="images\buy-2.png" />
+    <Content Include="images\buy.svg" />
     <Content Include="images\cycling-nature.jpg" />
     <Content Include="images\dalius-tycker-om-logo.gif" />
     <Content Include="images\lasagne.jpg" />
