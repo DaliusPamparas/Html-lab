@@ -115,7 +115,7 @@
     <Content Include="images\lasagne.jpg" />
     <Content Include="media\Maldive3.mp4" />
     <Content Include="media\NeonHeart-EndlessGrace.mp3" />
-    <Content Include="order.html" />
+    <Content Include="pages\order.html" />
     <Content Include="pages\forklaring.html" />
     <Content Include="pages\sound-in-background.html" />
     <Content Include="pages\sound.html" />
