@@ -119,6 +119,7 @@
     <Content Include="pages\order.html" />
     <Content Include="pages\sound-in-background.html" />
     <Content Include="pages\sound.html" />
+    <Content Include="pages\thankyou.html" />
     <Content Include="pages\video.html" />
     <Content Include="index.html" />
     <Content Include="produkter\fikon-marmelad.jpeg" />
