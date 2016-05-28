@@ -1,3 +1,16 @@
 ﻿body {
     background-color:cadetblue;
+   padding: 150px 50px;
+}
+#one{
+    color:#4800ff;
+    background-color:white;
+}
+#two{
+    color:#530909;
+    background-color: rgba(50,100,150,0.5);
+}
+#tree{
+    color:rgb(100,60,89);
+    background-color:#ccf4f5;
 }
