@@ -24,3 +24,45 @@ h2{
     font-family: 'Amatic SC', cursive;
     font-size:3em;
 }
+#ftransform1{
+    font-family:Tahoma, Helvetica, sans-serif;
+    text-transform:uppercase;
+    font-size:1.5em;
+
+}
+#ftransform2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:lowercase;
+}
+#leading{
+    line-height:1.6em;
+}
+h3{
+    text-decoration:line-through;
+    letter-spacing:1.5em;
+    word-spacing:2em;
+}
+#lign{
+    text-align:right;
+}
+#movetoright{
+    text-indent:30px;
+    text-shadow:10px 5px 5px #333;
+
+}
+a :link{
+    color:aliceblue;
+}
+a :visited{
+    color:#530909;
+
+}
+a:hover{
+    color:#ff6a00;
+    text-decoration:none;
+
+}
+a:active{
+    color:blueviolet;
+    
+}
