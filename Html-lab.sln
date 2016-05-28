@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html-lab", "Html-lab\Html-l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html-lab2", "Html-lab2\Html-lab2.csproj", "{046A60A9-5EE1-47F3-BE78-7BAFBA291E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html-lab3", "Html-lab3\Html-lab3.csproj", "{D0D63674-35E0-4095-A6CD-8F5F36E734CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{046A60A9-5EE1-47F3-BE78-7BAFBA291E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{046A60A9-5EE1-47F3-BE78-7BAFBA291E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{046A60A9-5EE1-47F3-BE78-7BAFBA291E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D63674-35E0-4095-A6CD-8F5F36E734CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D63674-35E0-4095-A6CD-8F5F36E734CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D63674-35E0-4095-A6CD-8F5F36E734CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D63674-35E0-4095-A6CD-8F5F36E734CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
