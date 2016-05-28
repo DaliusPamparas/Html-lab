@@ -1,0 +1,7 @@
+﻿body {
+    background-color:#ff6a00;
+}
+p::after {
+    content:"default desktop size"
+}
+@media-ipad
