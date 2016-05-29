@@ -1,7 +1,13 @@
-﻿body {
-    background-color:#ff6a00;
+﻿
+
+
+@media screen and (max-width: 768px){
+    body{
+        background-color:cadetblue;
+        
+    }
+    p::after{
+        content: "tablet size";
+        
+    }
 }
-p::after {
-    content:"default desktop size"
-}
-@media-ipad
