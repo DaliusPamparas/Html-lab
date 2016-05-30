@@ -1,0 +1,44 @@
+﻿body{
+    background-color:#ff6a00;
+}
+
+#but1{
+     width:50px;
+    height:8px;
+    background-color:darkslategrey;
+    margin-left:200px;
+    border-radius:5px 5px 1px 1px;
+}
+#form1{
+   
+    background-color:white;
+    width:300px;
+    height:500px;
+    border:2px solid grey;
+    border-style:solid;
+    border-radius: 25px;
+}
+#punkt1{
+      width:10px;
+    height:10px;
+    background-color:darkslategrey;
+    margin-left:140px;
+    margin-top:20px;
+    border-radius:5px;
+}
+#punkt2{
+      width:10px;
+    height:10px;
+    background-color:darkslategrey;
+    margin-left:100px;
+    margin-top:10px;
+    border-radius:5px;
+}
+#punkt3{
+      width:60px;
+    height:10px;
+    background-color:darkslategrey;
+    margin-left:20px;
+    
+    border-radius:5px;
+}
