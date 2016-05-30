@@ -94,6 +94,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\cykel.gif" />
+    <Content Include="images\sail1.jpg" />
+    <Content Include="images\sail2.JPG" />
+    <Content Include="images\sail3.jpg" />
     <Content Include="iphone.html" />
     <Content Include="iphonestyle.css" />
     <Content Include="packages.config" />
