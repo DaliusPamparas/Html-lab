@@ -22,25 +22,33 @@
       width:10px;
     height:10px;
     background-color:darkslategrey;
-    margin-left:140px;
-    margin-top:20px;
-    border-radius:5px;
-}
-#punkt2{
-      width:10px;
-    height:10px;
-    background-color:red;
-    margin-left:100px;
-    margin-top:20px;
+    margin:30px 140px 10px 140px;
     border-radius:5px;
     float:left;
+}
+#punkt2{
+       width:8px;
+    height:8px;
+    background-color:darkslategrey;
+    margin-left:120px;
+   float:left;
+   
+    border-radius:5px;
 }
 #punkt3{
       width:60px;
     height:8px;
     background-color:darkslategrey;
-    margin-left:110px;
+    margin-left:20px;
    float:left;
    
     border-radius:5px;
+}
+#skarnm{
+    float:left;
+    margin:20px 10px 10px 20px;
+    width:250px;
+    height:340px;
+    border:1px solid #808080;
+    border-radius:10px;
 }
