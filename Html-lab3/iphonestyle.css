@@ -29,16 +29,18 @@
 #punkt2{
       width:10px;
     height:10px;
-    background-color:darkslategrey;
+    background-color:red;
     margin-left:100px;
-    margin-top:10px;
+    margin-top:20px;
     border-radius:5px;
+    float:left;
 }
 #punkt3{
       width:60px;
-    height:10px;
+    height:8px;
     background-color:darkslategrey;
-    margin-left:20px;
-    
+    margin-left:110px;
+   float:left;
+   
     border-radius:5px;
 }

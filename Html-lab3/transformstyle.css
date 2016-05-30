@@ -1,25 +1,23 @@
-﻿#change{
-    margin:100px;
-    background-color:yellow;
-    padding:20px;
-    width:200px;
-    height:200px;
-    color:black;
-    font-family:Arial;
+﻿#change {
+    margin: 100px;
+    background-color: yellow;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    color: black;
+    font-family: Arial;
     font-size: 40px;
-    transform:rotate(10deg);
-     
-     transition: all 0.5s ease;
-   
+    transform: rotate(10deg);
+    transition: all 2s ease;
 }
-#change:hover{
-    background-color:#4cff00;
-    padding:40px;
-    width:400px;
-    height:400px;
-    color:black;
-    font-family:Verdana;
-    font-size: 60px;
-    transform:rotate(30deg);
-    
-}
+
+    #change:hover {
+        background-color: #4cff00;
+        padding: 40px;
+        width: 400px;
+        height: 400px;
+        color: black;
+        font-family: Verdana;
+        font-size: 60px;
+        transform: rotate(30deg);
+    }
