@@ -111,6 +111,8 @@
     <Content Include="index.html" />
     <Content Include="mediaq.html" />
     <Content Include="mediaqstyle.css" />
+    <Content Include="responsive.html" />
+    <Content Include="responsivestyle.css" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="style.css" />
