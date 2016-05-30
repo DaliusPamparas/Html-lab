@@ -1,2 +1,28 @@
 ﻿body {
+    background-color:#ffd800;
+    padding:20px;
+}
+nav li{
+    display:inline;
+    padding:10px;
+}
+
+@media only screen and (max-width: 480px){
+    body{
+        background-color:#4cff00;
+        
+    }
+  header{
+      width:100%;
+  }
+  article{
+      width:100%;
+  }
+    aside{
+        width:100%;
+    } 
+    footer{
+        width:100%;
+    }   
+    }
 }
