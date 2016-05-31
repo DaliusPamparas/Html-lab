@@ -21,6 +21,14 @@ nav ul li a{
     padding:10px;
 }
 
- .col-sm-8{
-     background-color:red;
+ .col-xs-12 {
+     margin:auto;
+     border:1px solid red;
+ }
+ .col-sm-9 {
+     margin:auto;
+     border:1px solid #b6ff00;
+ }
+ .hcont{
+     background-color:darkseagreen;
  }
