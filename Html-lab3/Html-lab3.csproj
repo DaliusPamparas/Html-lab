@@ -94,6 +94,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\cykel.gif" />
+    <Content Include="images\sail1.jpg" />
+    <Content Include="images\sail2.JPG" />
+    <Content Include="images\sail3.jpg" />
+    <Content Include="iphone.html" />
+    <Content Include="iphonestyle.css" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -114,6 +120,8 @@
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="style.css" />
+    <Content Include="transform.html" />
+    <Content Include="transformstyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
