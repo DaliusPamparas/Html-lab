@@ -1,3 +1,26 @@
 ﻿body {
     background-color:aquamarine;
 }
+#head-bg {
+    background-color: #022a48;
+    background-repeat: repeat-x;
+    background-image: url('../images/mob-head-bg-1.png');
+    background-position:bottom;
+
+}
+nav ul{
+ list-style-type:none;
+}
+nav li{
+    display:inline;
+}
+nav ul li a{
+    color:#e6eaef;
+    font-family:'Times New Roman', Times, serif;
+    font-size:16px;
+    padding:10px;
+}
+
+ .sm-col-8{
+     background-color:red;
+ }
