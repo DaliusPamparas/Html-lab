@@ -1,5 +1,5 @@
 ﻿body {
-    background-color:aquamarine;
+    background-color:#022a48;
 }
 #head-bg {
     background-color: #022a48;
@@ -10,25 +10,34 @@
 }
 nav ul{
  list-style-type:none;
+ padding-top: 50px;
 }
-nav li{
-    display:inline;
-}
+
 nav ul li a{
     color:#e6eaef;
     font-family:'Times New Roman', Times, serif;
     font-size:16px;
     padding:10px;
 }
+nav li{
+    display:inline;
+    
+}
 
- .col-xs-12 {
-     margin:auto;
-     border:1px solid red;
- }
- .col-sm-9 {
-     margin:auto;
-     border:1px solid #b6ff00;
- }
- .hcont{
-     background-color:darkseagreen;
- }
+.headbgr {
+    background-image: url('../images/head-bg.jpg');
+    background-color:#00bdf3;
+    background-position-x:center;
+    background-repeat:no-repeat;
+    height:500px;
+}
+.icons{
+    padding-top:70px;
+}
+.content{
+    background-color:white;
+}
+.copyrait{
+ color: white;
+ background-color:#022a48;
+}
