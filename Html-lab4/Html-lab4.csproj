@@ -94,6 +94,16 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="gallery\Baros-Maldives_1.jpg" />
+    <Content Include="gallery\Baros-Maldives_10.jpg" />
+    <Content Include="gallery\Baros-Maldives_11.jpg" />
+    <Content Include="gallery\Baros-Maldives_12.jpg" />
+    <Content Include="gallery\Baros-Maldives_2.jpg" />
+    <Content Include="gallery\Baros-Maldives_3.jpg" />
+    <Content Include="gallery\Baros-Maldives_6.jpg" />
+    <Content Include="gallery\Baros-Maldives_7.jpg" />
+    <Content Include="gallery\Baros-Maldives_8.jpg" />
+    <Content Include="gallery\Baros-Maldives_9.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
