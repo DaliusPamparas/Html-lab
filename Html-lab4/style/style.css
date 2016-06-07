@@ -50,9 +50,37 @@ nav li{
  color: white;
  background-color:#022a48;
  padding:15px;
+ margin-top:50px;
  border-radius:10px 10px 1px 1px;
 }
 @import url(https://fonts.googleapis.com/css?family=Lora:400italic);
 h1{
  font-family: 'Lora', serif;
 }
+
+.img-responsive{
+    padding-bottom:20px;
+ 
+}
+.cont:hover {
+     transition: all 1.3s ease-in-out;
+}
+.front{
+position: absolute;
+    
+    z-index: 2;
+    backface-visibility: hidden;
+    transform: rotateY(0deg);
+}
+
+.back{
+position: absolute;
+  
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
+    padding: 10px;
+    color: #aaa;
+    background-color: white;
+}
+
+
