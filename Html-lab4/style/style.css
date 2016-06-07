@@ -40,6 +40,13 @@ nav li{
     background-repeat:no-repeat;
     height:500px;
 }
+.headbannerin{
+    background-image: url('../images/head-bg.jpg');
+    background-color:#00bdf3;
+    background-position-x:center;
+    background-repeat:no-repeat;
+    height:440px;
+}
 .icons{
     padding-top:70px;
 }
@@ -116,4 +123,9 @@ h1{
     z-index: 5;
   
     background: url('../images/tv3.jpg') left no-repeat;
+}
+
+.valid {
+  
+  color:red;
 }
