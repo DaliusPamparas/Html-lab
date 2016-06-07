@@ -104,7 +104,8 @@
     <Content Include="gallery\Baros-Maldives_7.jpg" />
     <Content Include="gallery\Baros-Maldives_8.jpg" />
     <Content Include="gallery\Baros-Maldives_9.jpg" />
-    <Content Include="images\tv.jpg" />
+    <Content Include="images\tv1.jpg" />
+    <Content Include="images\tv3.jpg" />
     <Content Include="media\Maldive3.mp4" />
     <Content Include="media\NeonHeart-EndlessGrace.mp3" />
     <Content Include="packages.config" />
