@@ -99,3 +99,17 @@ h1{
 .album_container:hover .picture {
     transform: rotateY(180deg);
 }
+
+  
+   
+}
+.videobg {
+   width:800px;
+   height:1000px;
+   
+    background-color:#ff6a00;
+    background-image: url('../images/tv.jpg');
+}
+.video {
+    width: 400px;
+    height: 300px;

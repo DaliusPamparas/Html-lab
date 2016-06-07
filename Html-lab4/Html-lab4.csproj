@@ -104,11 +104,15 @@
     <Content Include="gallery\Baros-Maldives_7.jpg" />
     <Content Include="gallery\Baros-Maldives_8.jpg" />
     <Content Include="gallery\Baros-Maldives_9.jpg" />
+    <Content Include="images\tv.jpg" />
+    <Content Include="media\Maldive3.mp4" />
+    <Content Include="media\NeonHeart-EndlessGrace.mp3" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="pages\gallery.html" />
+    <Content Include="pages\video.html" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
