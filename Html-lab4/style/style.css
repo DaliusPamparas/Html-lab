@@ -129,3 +129,65 @@ h1{
   
   color:red;
 }
+
+
+
+
+
+
+
+
+.aquarium{
+    position:relative;/*forces the absolute objects to stay within the relative boundaries*/
+    margin-bottom:25px;
+    border:2px solid white;
+     width: 800px;
+    height: 599px;
+    background: url('../images/aqua.jpg') no-repeat;
+}
+
+.gamehead{
+    color:black;
+}
+
+.aqua{
+       
+
+    position: absolute;
+    perspective: 1000px;
+}
+
+
+#sharkid{
+    width: 170px;
+    top: 100px;
+    left: 100px;
+  
+
+}
+
+
+@keyframes sharkswim{
+    0% {left:50px;/*horizontal start positon*/
+        top:0px;}/*vertical start position*/
+
+    25%{left: 800px; /*dives 800px to the right*/
+        transform: rotateY(0deg);}/*makes sure diver doesnt turn WHILE diving*/
+
+    30% {transform: rotateY(180deg);}/*rotates fast*/
+
+    50%{top:50px;
+        transform: rotateY(180deg);}
+
+    90%{transform: rotateY(180deg);}
+
+    100%{ left: 50px;  top:0px;}
+
+}
+
+#sharkbox:checked ~ .aquarium #sharkid{
+    animation-name: sharkswim;
+    animation-duration: 4s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+}

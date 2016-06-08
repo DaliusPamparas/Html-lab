@@ -107,6 +107,7 @@
     <Content Include="images\aqua.jpg" />
     <Content Include="images\tv1.jpg" />
     <Content Include="images\tv3.jpg" />
+    <Content Include="images\zhark.png" />
     <Content Include="index.html" />
     <Content Include="media\Baros Maldives  HD Video.mp4" />
     <Content Include="media\Maldive3.mp4" />
@@ -117,6 +118,7 @@
     </Content>
     <Content Include="pages\contacts.html" />
     <Content Include="pages\gallery.html" />
+    <Content Include="pages\game.html" />
     <Content Include="pages\video.html" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
