@@ -168,26 +168,31 @@ h1{
 
 
 @keyframes sharkswim{
-    0% {left:50px;/*horizontal start positon*/
-        top:0px;}/*vertical start position*/
+    0% {left:100px;
+        top:100px;}
+    40%{left: 450px;
+        top:100px;
+        transform: rotateY(180deg);
+      }
 
-    25%{left: 800px; /*dives 800px to the right*/
-        transform: rotateY(0deg);}/*makes sure diver doesnt turn WHILE diving*/
+    50%{left: 450px;
+        top:100px;
+          transform: rotateY(180deg);
 
-    30% {transform: rotateY(180deg);}/*rotates fast*/
+    }
 
-    50%{top:50px;
-        transform: rotateY(180deg);}
+  80%{left: 100px;
+        top:100px;
+      
 
-    90%{transform: rotateY(180deg);}
+  }
 
-    100%{ left: 50px;  top:0px;}
+    100%{ left: 100px;  top:100px;}
 
 }
 
 #sharkbox:checked ~ .aquarium #sharkid{
     animation-name: sharkswim;
-    animation-duration: 4s;
-    animation-timing-function: ease-out;
+    animation-duration: 12s;
     animation-iteration-count: infinite;
 }
